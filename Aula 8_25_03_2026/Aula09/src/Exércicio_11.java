@@ -1,6 +1,8 @@
 import static java.lang.IO.readln;
 
-public class Exércicio_11
+public class Exércicio_11{
+
+}
 //11 - Desenvolva um programa que recebe o salário de um funcionário e determine o reajuste segundo o seguinte critério, baseado no salário atual:
 //    salários até R$ 1000,00 (incluindo)     : aumento de 20%
 //    salários até R$ 1.700,00                : aumento de 15%
