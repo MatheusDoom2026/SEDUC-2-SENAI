@@ -10,7 +10,7 @@ void main() {
     int i = 1;
 
     while (i <= 10) {
-        IO.println(i + " x " + num + "=" + (i *num));
+        IO.println(i + " x " + num + " = " + (i *num));
         i += 1;
     }
 }

@@ -1,5 +1,11 @@
 import static java.lang.IO.*;
 
+//2. Peça 4 notas (nota1, nota2, nota3, nota4) de  4 alunos (aluno1, aluno2, aluno3, aluno4), calcule a média final (mf) de cada um e exiba na tela a sua situação escolar:
+
+//Média final >= 7 → Aprovado
+//Média final entre 5 e 6.9 → Recuperação
+//Média final < 5 → Reprovado
+
 void main() {
 
     int num_alunos = 1; //valor inicial

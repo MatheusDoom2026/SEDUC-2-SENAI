@@ -1,5 +1,7 @@
 import static java.lang.IO.*;
 
+//1. Um caixa eletrônico permite 3 tentativas para digitar a senha correta (4321).
+//Caso erre 3 vezes, a conta será bloqueada.
 
 void main() {
 
